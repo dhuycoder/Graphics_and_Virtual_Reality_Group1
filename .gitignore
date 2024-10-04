@@ -1,0 +1,43 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+UserSettings/
+
+# Avoid committing auto-generated Visual Studio/MonoDevelop/JetBrains Rider project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity specific file types
+*.pidb
+*.booproj
+*.svd
+
+# Crash Reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+*.dll
+*.dmg
+*.log
+
+# Asset serialization
+*.meta
+
+# Ignore the cache folder
+[Oo]ptions/Editor/
